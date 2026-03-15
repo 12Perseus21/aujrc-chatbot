@@ -64,7 +64,7 @@ def bot_response(user_input):
         thought_process = f"\n[System Log: Query matched with '{data['questions'][closest_match_index]}' | Confidence: {highest_score * 100:.1f}%]"
         return data['answers'][closest_match_index], thought_process
     else:
-        return "I do apologize. I am only designed to answer basic queries about the Senior High School. Perhaps try rephrasing the question?"
+        return "I do apologize. I am only designed to answer basic queries about the Senior High School. Perhaps try rephrasing the question?", ""
 
 # Design - used Streamlit
 st.title("Arellano University - Jose Rizal Campus Chatbot")
