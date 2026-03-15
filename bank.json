@@ -32,7 +32,8 @@
         "Thank you",
         "Goodbye",
         "What is this?",
-        "Are you okay?"
+        "Are you okay?",
+        "How are you?"
     ],
 
     "answers" : [
@@ -68,6 +69,7 @@
         "You are very welcome! Let me know if you need help with anything else.",
         "Goodbye! Have a great day ahead, future Chief!",
         "I am not sure what you are asking about, but I am Cayto! Your virtual AI assistant for the AU-JRC Senior High School. Let me know if you have any questions about AU-JRC!",
+        "I am doing just fine. All ready to help you out regarding your inquiries about AU-JRC!",
         "I am doing just fine. All ready to help you out regarding your inquiries about AU-JRC!"
     ]
 }
